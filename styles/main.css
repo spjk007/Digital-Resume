@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@300;400;500;600;700&display=swap');
 
 :root{
     --mainTextColor-light:#000;
@@ -14,8 +15,8 @@
     --mainBorderColor-dark:#3b21b1;
     --mainBgColor-dark:#8543058d;
     
-    --mainTextColor:var(--mainTextColor-dark);
-    --secondaryTextColor:var(--secondaryTextColor-dark);
+    --mainTextColor:var(--mainTextColor-light);
+    --secondaryTextColor:var(--secondaryTextColor-light);
     --mainLinkColor:var(--mainLinkColor-dark);
     --mainBorderColor:var(--mainBorderColor-dark);
     --mainBgColor:var(--mainBgColor-dark);
